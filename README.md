@@ -1,7 +1,8 @@
 # emoji.html.css
 emoji
 
-![Image 2025-08-07 at 14 51 44_aa97f5b4](https://github.com/user-attachments/assets/a902735a-82e0-4fc6-946e-4c14a04cbac6)
+<img width="415" height="392" alt="Screenshot 2025-08-08 095404" src="https://github.com/user-attachments/assets/939bbb82-6a1d-40c0-9e42-683a133403e6" />
+
 
 
 
